@@ -1,4 +1,6 @@
 # noghtefile
+
+
 in dotfile mane bedon arayesh ham fane  bodo biya inja ke babam najare :D
 
 
@@ -6,8 +8,14 @@ in dotfile mane bedon arayesh ham fane  bodo biya inja ke babam najare :D
 
 
 # arian komak
+
+
 # install cloudflared packge for start arian komak commend :D
+
+
 # ghable inke arian komak bezanid cloudflared ro nasb konid :D
+
+
 export DISPLAY=:1
 
 arian() {
@@ -29,5 +37,9 @@ arian() {
             return 1
     esac
 }
+
+
 # Ye agha pouyaye gol hast ke dot filash kheili khobe mitonid berizid
+
+
 https://github.com/NotMurPh/DotFiles 
